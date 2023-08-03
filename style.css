@@ -1,0 +1,30 @@
+body{
+    background-image: url(q.jpg);
+}
+button{
+    margin-left: 45px;
+    margin-top: 45px;
+    background-color: lightpink;
+    border-radius: 25px;
+    color:rgb(11, 3, 233);
+}
+center h1{
+    inline-size: 50%;
+    background-color: aqua;
+    border-radius: 25px;
+    color: black;
+}
+footer{
+    color: white;
+}
+input{
+    border-radius: 24px;
+}
+/* / */
+label{
+    color: white;
+    font-size: larger;
+}
+h1{
+    color: white;
+}
